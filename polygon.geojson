@@ -1,0 +1,20 @@
+{
+   "name":"Polygon michal.pilch",
+   "geo_json":{
+      "type":"Feature",
+      "properties":{
+
+      },
+      "geometry":{
+         "type":"Polygon",
+         "coordinates":[
+            [
+               [19.9166,52.5911],
+               [19.8518,52.5680],
+               [19.9166,52.5680],
+               [19.8518,52.5911]
+            ]
+         ]
+      }
+   }
+}
